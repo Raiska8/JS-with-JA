@@ -12,6 +12,25 @@
     
     - результат возведения числа a в степень b*/
 
-    let task5 = [a, b];
-    task5 = a + b;
-    console.log(task5);
+    let a = 30;
+    let b = 3
+    console.log(a + b); // +
+    document.write(`сумма a и b: ${a + b}` + "<br>");
+
+    console.log(a - b); // -
+    document.write(`разница между a и b : ${a - b}` + "<br>");
+
+    console.log(a * b); // *
+    document.write(`произведение a и b: ${a * b}`+"<br>");
+
+    console.log(a / b); // /
+    document.write(`частное от деления a на b: ${a / b}`+"<br>");
+
+    console.log(a % b); // %
+    document.write(`остаток от деления a на b: ${a % b}`+"<br>");
+
+    console.log(a ** b); // **
+    document.write(`результат возведения числа a в степень b* : ${a ** b}`+"<br>");
+
+   
+

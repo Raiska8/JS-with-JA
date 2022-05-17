@@ -2,3 +2,5 @@
 let userName = "Katie";
     userEmail = "katie@gmail.com";
     console.log(userName, userEmail);
+    
+document.write("Меня зовут: " + userName + "<br>" + "моя почта: " + userEmail + "<br>" );

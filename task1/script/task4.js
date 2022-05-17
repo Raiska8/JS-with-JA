@@ -2,4 +2,4 @@
 let souvenir = 75;
 let accessories = 122;
 console.log(souvenir + accessories);
-document.write(souvenir + accessories);
+document.write(`Общий вес посылки: ${souvenir + accessories}`+ " г." + "<br>" );

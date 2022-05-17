@@ -5,4 +5,4 @@ console.log(task2);
 
 task2 = `let's learn JavaScript!`;
 console.log(task2);
-document.write(task2)
+document.write(task2); 
